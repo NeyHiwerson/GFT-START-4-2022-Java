@@ -1,12 +1,8 @@
 package com.ney;
 
-import java.applet.Applet;
-import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
-
-import static javax.print.attribute.Size2DSyntax.MM;
 
 public class Main {
     public static void main(String[] args) {
